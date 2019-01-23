@@ -6,6 +6,7 @@ These two datasets correspond to the [Inting Sion](www.doranslab.gg/articles/sio
 ## Patch 8.20 Execute Analysis dataset
 
 This dataset has the death and execute statistics for each champion in patch 8.20. Each row corresponds to a champion.
+
 Column | Description 
  ---|----- 
 `champion`| Champion name
@@ -21,6 +22,7 @@ Column | Description
 
 
 This dataset has the data for the Inting Sion plot. Each row corresponds to a day between 9/15/18 and 11/23/18.
+
 Column | Description 
  ---|----- 
 `date`| The day, in M/D/Y format. Ranges from 9/15/18 to 11/23/18
