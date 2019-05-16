@@ -6,8 +6,8 @@ The "blue_side_jungler_data.csv" file contains blue-side jungler data, and the "
 
 Column | Description
 ---|-----
-`matchId` | Unique identifier for each match (from Riot API)
-`participantId` | Uniquely identifies a player in a particular match
+`matchId` | Number that uniquely identifies each match (from Riot API)
+`participantId` | Number that identifies a player in a particular match (From Riot API)
 `win` | Value of 1 if jungler went on to win, and 0 if they went on to lose
 `position1` | The jungler's position at 1:00 as a coordinate: [x-position, y-position]
 `position2` | Same as above, for 2:00
