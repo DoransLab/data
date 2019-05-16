@@ -2,7 +2,7 @@
 
 This directory contains the data used in the creation of the [Choose Your Path ](https://doranslab.gg/tools/jungle-tool.html) tool and the [Hacking the Jungle with Data Science](https://doranslab.gg/articles/hacking-the-jungle.html) article. This data contains jungler positions from minute 1 to minute 6 for nearly 100,000 matches in each file where each row represents the position data for a jungler from one match at a particular time point. All data came from patches 9.1 and 9.2 from matches that were diamond average or better on the North American server
 
-The "blue_side_jungler_data.csv" file contains blue-side jungler data, and the "jungle_positions_red_side.csv" file contains red-side jungler data.
+The "jungle_positions_blue_side.csv" file contains blue-side jungler data, and the "jungle_positions_red_side.csv" file contains red-side jungler data.
 
 Column | Description
 ---|-----
